@@ -1,0 +1,3 @@
+[submodule "protos-library"]
+	path = protos-library
+	url = https://github.com/xuzhiyong017/grpc_protos.git
